@@ -36,7 +36,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
 
 
-![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciisiq&show_icons=true&theme=jolly)
+![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciisiq&count_private=true&show_icons=true&hide=issues&theme=jolly)
 
 <!---
 ciisiq/ciisiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
