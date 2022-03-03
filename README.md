@@ -3,13 +3,21 @@
 
 👋 Hi, I’m Cintia, brazilian living in London since 2019.<br>
 🧠 I'm currently learning JavaScript and Python<br>
-💞️ I’m looking to collaborate on any project<br>
-⚡️ Fun fact about me:
+💞️ I’m looking to collaborate on any project
+
+<br>
+
+😍 Hobbies: 
+- Photography: go to anywhere with my camera and take photos and keep this moment<br>
+- Watch competition shows: like masterchef 🧑🏻‍🍳
+- Take care of plants 🪴
+<br>
+
+⚡️ Fun fact about me:<br>
 1. I love play games like residen Evil 🧟‍♀️<br>
-2. I love pandas 🐼
-3. I played in an time chess when I was 13 years old.
-
-
+2. I love pandas 🐼 <br>
+3. I played in an team chess when I was 13 years old.<br>
+4. The kind of filme that I love is horror 🤣
   
 ## 🛠 Skills
 
