@@ -4,8 +4,10 @@
 👋 Hi, I’m Cintia, brazilian living in London since 2019.<br>
 🧠 I'm currently learning JavaScript and Python<br>
 💞️ I’m looking to collaborate on any project<br>
-⚡️ Fun fact about me is I love play games like residen Evil 🧟‍♀️<br>
-⚡️ Fun fact about me is I love pandas 🐼
+⚡️ Fun fact about me:
+1. I love play games like residen Evil 🧟‍♀️<br>
+2. I love pandas 🐼
+3. I played in an time chess when I was 13 years old.
 
 
   
