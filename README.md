@@ -17,7 +17,7 @@
 1. I love play games like residen Evil 🧟‍♀️<br>
 2. I love pandas 🐼 <br>
 3. I played in an team chess when I was 13 years old.<br>
-4. The kind of filme that I love is horror 🤣
+4. The kind of film that I love is horror 🤣
   
 ## 🛠 Skills
 
