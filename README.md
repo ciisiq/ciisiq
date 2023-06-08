@@ -35,10 +35,7 @@
 </table>
 </div>
   
-<div align="center"> 
-  
-![codewars badge](https://www.codewars.com/users/cisiq/badges/small)
-</div>
+
   
 ## 🛠 Skills
 <div align="center"> 
@@ -105,4 +102,8 @@
 ciisiq/ciisiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
+<div align="center"> 
+  
+![codewars badge](https://www.codewars.com/users/cisiq/badges/small)
 </div>
