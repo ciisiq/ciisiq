@@ -72,7 +72,7 @@
 | Interactive Rating     |  Javascript, CSS           | [Github](https://github.com/ciisiq/challenge-interactive-rating)     | [Demo](https://ciisiq.github.io/challenge-interactive-rating/)    |
 | Simple Counter         |  Javascript, CSS, DOM      | [Github](https://github.com/ciisiq/simple-counter)                   | [Demo](https://ciisiq.github.io/simple-counter/)                  |
 | Memory Game            |  Javascript, CSS, DOM      | [Github](https://github.com/ciisiq/memory-game)                      | [Demo](https://panda-memory-game.netlify.app/)                    |
-| Blackjack Game         |  Javascript, CSS, JQuuery  | [Github](https://github.com/ciisiq/blackjack-game)                   | [Demo](https://blackjack-game-ci.netlify.app/)                    |
+| Blackjack Game         |  Javascript, CSS, JQuery   | [Github](https://github.com/ciisiq/blackjack-game)                   | [Demo](https://blackjack-game-ci.netlify.app/)                    |
 | QR Code component      |  HTML, CSS                 | [Github](https://github.com/ciisiq/challenge-QR-code-component)      | [Demo](https://challenge-qrcode.vercel.app/)                      |
 | To do List             |  Javascript, CSS           | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
 | My portfolio website   |  React, SCSS               | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
@@ -87,9 +87,9 @@
 |Project                 | Tech                       | Repo                                                                    |   Link                                              |
 |:-----------------------|:---------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
 | JobTracker APP         |  React, Tailwinds, MongoDB | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)              |
-| Typing website         |  Nextjs, CSS module        | [Github](https://github.com/ciisiq/backend-ghibli-films)                | [Coming soon]                                       |
+| Typing website         |  Nextjs, CSS module        | [Github](https://github.com/touch-typing/touch-typing-academy)          | [Coming soon]                                       |
 | SOC Wordpress          |  Wordpress, php, CSS       | [PRIVATE]                                                               | [PRIVATE]                                           |
-| Hackathon News website |  React, CSS                | [Github](https://github.com/D20CM/news-hackathon)                      | [Demo](https://master--news-hackathon.netlify.app/) |
+| Hackathon News website |  React, CSS                | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/) |
 | Hackathon Holiday app  |  React, CSS                | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                              |
   
 </div>
