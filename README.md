@@ -95,14 +95,11 @@
 </div>
  
 <hr>
-<div align="center"> 
+<!-- <div align="center"> 
   
 ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciisiq&count_private=true&show_icons=true&hide=issues&theme=jolly)
-<!---
-ciisiq/ciisiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</div>
+</div> -->
+
 <div align="center"> 
   
 ![codewars badge](https://www.codewars.com/users/cisiq/badges/small)
