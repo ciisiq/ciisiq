@@ -87,8 +87,6 @@
 |Project                 | Tech                       | Repo                                                                    |   Link                                              |
 |:-----------------------|:---------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
 | JobTracker APP         |  React, Tailwinds, MongoDB | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)              |
-| Typing website         |  Nextjs, CSS module        | [Github](https://github.com/touch-typing/touch-typing-academy)          | [Coming soon]                                       |
-| SOC Wordpress          |  Wordpress, php, CSS       | [PRIVATE]                                                               | [PRIVATE]                                           |
 | Hackathon News website |  React, CSS                | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/) |
 | Hackathon Holiday app  |  React, CSS                | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                              |
   
