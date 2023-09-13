@@ -4,7 +4,7 @@
   
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=BE5EA4)](https://cisiq.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
-[![twitter](https://img.shields.io/badge/twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cii_siq)
+[![Twitter](https://img.shields.io/badge/twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cii_siq)
 </div>
  
 <div align="center"> 
@@ -21,14 +21,14 @@
  
   <tr>
     <td>
-    📷 Photography: Take photos and keep moment<br> 
-    👩‍🍳 Watch competition shows: like masterchef <br>
+    📷 Photography: Take photos and keep the moment<br> 
+    👩‍🍳 Watch competition shows: like MasterChef <br>
     🪴 Take care of plants 
     </td> 
     <td>
-     🎮 I love play games like residen Evil <br>
+     🎮 I love playing games like resident Evil <br>
      🐼 I love pandas <br>
-     ♟️ I played in an team chess when I was 13 years old.<br>
+     ♟️ I played team chess when I was 13 years old.<br>
      🧟‍♀️ The kind of film that I love is horror 🤣 
     </td> 
  </tr>
@@ -65,6 +65,7 @@
   
 |Project                 | Tech                       | Repo                                                                 | Link                                                              |
 |:-----------------------|:---------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
+| Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)       | [None]                                              |
 | Frontend Films Ghibli  |  NextJs, Docker, CSS       | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)  | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
 | Backend Films Ghibli   |  Nodejs, Docker            | [Github](https://github.com/ciisiq/backend-ghibli-films)             | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
 | Clone website SOC      |  HTML, CSS                 | [Github](https://github.com/ciisiq/html-soc)                         | [Demo](https://ciisiq.github.io/html-soc/)                        |
