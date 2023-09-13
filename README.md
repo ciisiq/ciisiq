@@ -63,21 +63,21 @@
 ## 📄 Projects
 <div align="center"> 
   
-|Project                 | Tech                       | Repo                                                                 | Link                                                              |
-|:-----------------------|:---------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
-| Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)       | [None]                                              |
-| Frontend Films Ghibli  |  NextJs, Docker, CSS       | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)  | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
-| Backend Films Ghibli   |  Nodejs, Docker            | [Github](https://github.com/ciisiq/backend-ghibli-films)             | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
-| Clone website SOC      |  HTML, CSS                 | [Github](https://github.com/ciisiq/html-soc)                         | [Demo](https://ciisiq.github.io/html-soc/)                        |
-| Preview card component |  HTML , CSS                | [Github](https://github.com/ciisiq/challenge-preview-card-component) | [Demo](https://ciisiq.github.io/challenge-preview-card-component/)|
-| Interactive Rating     |  Javascript, CSS           | [Github](https://github.com/ciisiq/challenge-interactive-rating)     | [Demo](https://ciisiq.github.io/challenge-interactive-rating/)    |
-| Simple Counter         |  Javascript, CSS, DOM      | [Github](https://github.com/ciisiq/simple-counter)                   | [Demo](https://ciisiq.github.io/simple-counter/)                  |
-| Memory Game            |  Javascript, CSS, DOM      | [Github](https://github.com/ciisiq/memory-game)                      | [Demo](https://panda-memory-game.netlify.app/)                    |
-| Blackjack Game         |  Javascript, CSS, JQuery   | [Github](https://github.com/ciisiq/blackjack-game)                   | [Demo](https://blackjack-game-ci.netlify.app/)                    |
-| QR Code component      |  HTML, CSS                 | [Github](https://github.com/ciisiq/challenge-QR-code-component)      | [Demo](https://challenge-qrcode.vercel.app/)                      |
-| To do List             |  Javascript, CSS           | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
-| My portfolio website   |  React, SCSS               | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
-| News App               |  React, SCSS, Cypress, API | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
+|Project                 | Tech                                     | Repo                                                                 | Link                                                              |
+|:-----------------------|:-----------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
+| Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)       | [None]                                                            |
+| Frontend Films Ghibli  |  NextJs, Docker, CSS                     | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)  | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
+| Backend Films Ghibli   |  Nodejs, Express, Mongoose Docker        | [Github](https://github.com/ciisiq/backend-ghibli-films)             | [None]                                                            |
+| Clone website SOC      |  HTML, CSS                               | [Github](https://github.com/ciisiq/html-soc)                         | [Demo](https://ciisiq.github.io/html-soc/)                        |
+| Preview card component |  HTML , CSS                              | [Github](https://github.com/ciisiq/challenge-preview-card-component) | [Demo](https://ciisiq.github.io/challenge-preview-card-component/)|
+| Interactive Rating     |  Javascript, CSS                         | [Github](https://github.com/ciisiq/challenge-interactive-rating)     | [Demo](https://ciisiq.github.io/challenge-interactive-rating/)    |
+| Simple Counter         |  Javascript, CSS, DOM                    | [Github](https://github.com/ciisiq/simple-counter)                   | [Demo](https://ciisiq.github.io/simple-counter/)                  |
+| Memory Game            |  Javascript, CSS, DOM                    | [Github](https://github.com/ciisiq/memory-game)                      | [Demo](https://panda-memory-game.netlify.app/)                    |
+| Blackjack Game         |  Javascript, CSS, JQuery                 | [Github](https://github.com/ciisiq/blackjack-game)                   | [Demo](https://blackjack-game-ci.netlify.app/)                    |
+| QR Code component      |  HTML, CSS                               | [Github](https://github.com/ciisiq/challenge-QR-code-component)      | [Demo](https://challenge-qrcode.vercel.app/)                      |
+| To do List             |  Javascript, CSS                         | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
+| My portfolio website   |  React, SCSS                             | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
+| News App               |  React, SCSS, Cypress, API               | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
   
 </div>
 
