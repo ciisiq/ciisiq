@@ -44,12 +44,12 @@
 ![](https://img.shields.io/badge/Node-informational?style=flat&logo=Node.js&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=BE5EA4)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=BE5EA4)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=Angular&logoColor=white&color=BE5EA4)
 <br>
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=BE5EA4)
-![](https://img.shields.io/badge/Styled-informational?style=flat&logo=styled-components&logoColor=white&color=BE5EA4)
 <br>
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=BE5EA4)
@@ -58,6 +58,9 @@
 <br>
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=BE5EA4)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=BE5EA4)
+![](https://img.shields.io/badge/Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=BE5EA4)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=BE5EA4)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=BE5EA4)
 </div>
 
 ## 📄 Projects
