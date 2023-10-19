@@ -89,11 +89,12 @@
 <div align="center"> 
 <h3>📄 Projects in team</h3>
   
-|Project                 | Tech                       | Repo                                                                    |   Link                                              |
-|:-----------------------|:---------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
-| JobTracker APP         |  React, Tailwinds, MongoDB | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)              |
-| Hackathon News website |  React, CSS                | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/) |
-| Hackathon Holiday app  |  React, CSS                | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                              |
+|Project                 | Tech                          | Repo                                                                    |   Link                                              |
+|:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
+| Full Stack Health Boss |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/Eduardcodes/Health-Boss)                    | [Demo](https://health-boss.vercel.app/)             |
+| JobTracker APP         |  React, Tailwinds, MongoDB    | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)              |
+| Hackathon News website |  React, CSS                   | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/) |
+| Hackathon Holiday app  |  React, CSS                   | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                              |
   
 </div>
  
