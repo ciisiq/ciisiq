@@ -8,7 +8,12 @@
 </div>
  
 <div align="center"> 
-👋 Hi, I’m Cintia, ex Graphic designer trying to switch to front-end developer, I'm currently learning JavaScript, React and Nodejs.
+👋 Hi, I’m Cintia!
+
+👩‍💻 Software Developer | Front-End Enthusiast | Continuous Learner 📚<br>
+📅 Software Engineer since November 2021 | Open to New Opportunities 🚀<br>
+🎓 Pursuing a Degree in System Analysis and Development at Unicesumar 📖<br>
+💼 Recent Graduate of Codeworks 🚀<br>
 </div>
 <br>
 
