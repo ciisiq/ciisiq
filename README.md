@@ -68,7 +68,7 @@
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=BE5EA4)
 </div>
 
-## 📄 Projects
+## 📄 Work
 <div align="center"> 
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                                              |
@@ -92,7 +92,7 @@
 
 
 <div align="center"> 
-<h3>📄 Projects in team</h3>
+<h3>📄 Work in team</h3>
   
 |Project                 | Tech                          | Repo                                                                    |   Link                                              |
 |:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
