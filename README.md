@@ -73,6 +73,7 @@
   
 |Project                 | Tech                                             | Repo                                                                 | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
+| Newsletter Sign        |  Javascript, Html, CSS                           | [Github](https://github.com/ciisiq/challenge-newsletter-sign-up)     | [Demo](https://ciisiq.github.io/challenge-newsletter-sign-up/)    | 
 | Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/ciisiq/sayxiis)                          | [None]                                                            |
 | Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS         | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)       | [None]                                                            |
 | Frontend Films Ghibli  |  NextJs, Docker, CSS                             | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)  | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
