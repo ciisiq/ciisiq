@@ -68,39 +68,39 @@
 ![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=BE5EA4)
 </div>
 
-## 📄 Work
+## 📄 Projects
 <div align="center"> 
   
-|Project                 | Tech                                             | Repo                                                                 | Link                                                              |
-|:-----------------------|:-------------------------------------------------|:---------------------------------------------------------------------|:------------------------------------------------------------------|
-| Newsletter Sign        |  Javascript, Html, CSS                           | [Github](https://github.com/ciisiq/challenge-newsletter-sign-up)     | [Demo](https://ciisiq.github.io/challenge-newsletter-sign-up/)    | 
-| Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/ciisiq/sayxiis)                          | [None]                                                            |
-| Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS         | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)       | [None]                                                            |
-| Frontend Films Ghibli  |  NextJs, Docker, CSS                             | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)  | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
-| Backend Films Ghibli   |  Nodejs, Express, Mongoose Docker                | [Github](https://github.com/ciisiq/backend-ghibli-films)             | [None]                                                            |
-| Clone website SOC      |  HTML, CSS                                       | [Github](https://github.com/ciisiq/html-soc)                         | [Demo](https://ciisiq.github.io/html-soc/)                        |
-| Preview card component |  HTML , CSS                                      | [Github](https://github.com/ciisiq/challenge-preview-card-component) | [Demo](https://ciisiq.github.io/challenge-preview-card-component/)|
-| Interactive Rating     |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/challenge-interactive-rating)     | [Demo](https://ciisiq.github.io/challenge-interactive-rating/)    |
-| Simple Counter         |  Javascript, CSS, DOM                            | [Github](https://github.com/ciisiq/simple-counter)                   | [Demo](https://ciisiq.github.io/simple-counter/)                  |
-| Memory Game            |  Javascript, CSS, DOM                            | [Github](https://github.com/ciisiq/memory-game)                      | [Demo](https://panda-memory-game.netlify.app/)                    |
-| Blackjack Game         |  Javascript, CSS, JQuery                         | [Github](https://github.com/ciisiq/blackjack-game)                   | [Demo](https://blackjack-game-ci.netlify.app/)                    |
-| QR Code component      |  HTML, CSS                                       | [Github](https://github.com/ciisiq/challenge-QR-code-component)      | [Demo](https://challenge-qrcode.vercel.app/)                      |
-| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
-| My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                  | [Demo](https://cisiq.dev/)                                        |
-| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                         | [Demo](https://news-percayso-test.netlify.app/)                   |
+|Project                 | Tech                                             | Repo                                                                    | Link                                                              |
+|:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Newsletter Sign        |  Javascript, Html, CSS                           | [Github](https://github.com/ciisiq/challenge-newsletter-sign-up)        | [Demo](https://ciisiq.github.io/challenge-newsletter-sign-up/)    | 
+| JobTracker APP         |  React, Tailwinds, MongoDB, teamwork             | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)                            |
+| Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS         | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)          | [None]                                                            |
+| Frontend Films Ghibli  |  NextJs, Docker, CSS                             | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)     | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
+| Backend Films Ghibli   |  Nodejs, Express, Mongoose Docker                | [Github](https://github.com/ciisiq/backend-ghibli-films)                | [None]                                                            |
+| Clone website SOC      |  HTML, CSS                                       | [Github](https://github.com/ciisiq/html-soc)                            | [Demo](https://ciisiq.github.io/html-soc/)                        |
+| Preview card component |  HTML , CSS                                      | [Github](https://github.com/ciisiq/challenge-preview-card-component)    | [Demo](https://ciisiq.github.io/challenge-preview-card-component/)|
+| Interactive Rating     |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/challenge-interactive-rating)        | [Demo](https://ciisiq.github.io/challenge-interactive-rating/)    |
+| Simple Counter         |  Javascript, CSS, DOM                            | [Github](https://github.com/ciisiq/simple-counter)                      | [Demo](https://ciisiq.github.io/simple-counter/)                  |
+| Memory Game            |  Javascript, CSS, DOM                            | [Github](https://github.com/ciisiq/memory-game)                         | [Demo](https://panda-memory-game.netlify.app/)                    |
+| Blackjack Game         |  Javascript, CSS, JQuery                         | [Github](https://github.com/ciisiq/blackjack-game)                      | [Demo](https://blackjack-game-ci.netlify.app/)                    |
+| QR Code component      |  HTML, CSS                                       | [Github](https://github.com/ciisiq/challenge-QR-code-component)         | [Demo](https://challenge-qrcode.vercel.app/)                      |
+| To do List             |  Javascript, CSS                                 | [Github](https://github.com/ciisiq/studying-to-do-js)                   | [Demo](https://ciisiq.github.io/studying-to-do-js/)               |
+| My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                     | [Demo](https://cisiq.dev/)                                        |
+| News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                            | [Demo](https://news-percayso-test.netlify.app/)                   |
+| Hackathon News website |  React, CSS, teamwork                            | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/)               |
+| Hackathon Holiday app  |  React, CSS, teamwork                            | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                                            |
   
 </div>
 
 
 <div align="center"> 
-<h3>📄 Work in team</h3>
+<h3>📄 Work</h3>
   
-|Project                 | Tech                          | Repo                                                                    |   Link                                              |
-|:-----------------------|:------------------------------|:------------------------------------------------------------------------|:----------------------------------------------------|
-| Full Stack Health Boss |  Nextjs v3, Prisma, Tailwinds | [Github](https://github.com/Eduardcodes/Health-Boss)                    | [Demo](https://health-boss.vercel.app/)             |
-| JobTracker APP         |  React, Tailwinds, MongoDB    | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)              |
-| Hackathon News website |  React, CSS                   | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/) |
-| Hackathon Holiday app  |  React, CSS                   | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                              |
+|Project                 | Tech                          |  Link                                               |
+|:-----------------------|:------------------------------|:----------------------------------------------------|
+| Full Stack Health Boss |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)             |
+| Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Soon]                           |
   
 </div>
  
