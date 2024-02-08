@@ -5,6 +5,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=BE5EA4)](https://cisiq.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-siqueira/)
 [![Twitter](https://img.shields.io/badge/twitter-0A66C2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Cii_siq)
+![ViewCount](https://komarev.com/ghpvc/?username=ciisiq&style=for-the-badge&color=ff69b4)
 </div>
  
 <div align="center"> 
@@ -74,6 +75,7 @@
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
 | Newsletter Sign        |  Javascript, Html, CSS                           | [Github](https://github.com/ciisiq/challenge-newsletter-sign-up)        | [Demo](https://ciisiq.github.io/challenge-newsletter-sign-up/)    | 
+| Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/ciisiq/sayxiis)                             | [None]                                                            |
 | JobTracker APP         |  React, Tailwinds, MongoDB, teamwork             | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)                            |
 | Full stack Dad's Joke  |  NextJs, Mongoose, Express, Angular, CSS         | [Github](https://github.com/ciisiq/dad-jokes-express-mongoose)          | [None]                                                            |
 | Frontend Films Ghibli  |  NextJs, Docker, CSS                             | [Github](https://github.com/ciisiq/studying-nextjs-frontend-ghibli)     | [Demo](https://studying-nodejs-ghibli.vercel.app/)                |
@@ -97,10 +99,11 @@
 <div align="center"> 
 <h3>📄 Work</h3>
   
-|Project                 | Tech                          |  Link                                               |
-|:-----------------------|:------------------------------|:----------------------------------------------------|
-| Full Stack Health Boss |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)             |
-| Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Soon]                           |
+|Project                  | Tech                          |  Link                                                                   |
+|:------------------------|:------------------------------|:------------------------------------------------------------------------|
+| Full Stack Health Boss  |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)                                 |
+| Servi home Improvements |  Nextjs v3, Prisma, Tailwinds | [Demo](https://servihome-demo-miklyxs-projects.vercel.app/)             |
+
   
 </div>
  
