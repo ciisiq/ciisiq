@@ -16,7 +16,12 @@
 🎓 Pursuing a Degree in System Analysis and Development at Unicesumar 📖<br>
 💼 Recent Graduate of Codeworks 🚀<br>
 </div>
-<br>
+
+
+<div align="center"> 
+  
+  ![codewars badge](https://www.codewars.com/users/cisiq/badges/small)
+</div>
 
 <div align="center"> 
 <table border="0">
@@ -32,7 +37,7 @@
     🪴 Take care of plants 
     </td> 
     <td>
-     🎮 I love playing games like resident Evil <br>
+     🎮 I love playing games like Resident Evil <br>
      🐼 I love pandas <br>
      ♟️ I played team chess when I was 13 years old.<br>
      🧟‍♀️ The kind of film that I love is horror 🤣 
@@ -40,8 +45,6 @@
  </tr>
 </table>
 </div>
-  
-
   
 ## 🛠 Skills
 <div align="center"> 
@@ -92,29 +95,18 @@
 | My portfolio website   |  React, SCSS                                     | [Github](https://github.com/ciisiq/first-portfolio)                     | [Demo](https://cisiq.dev/)                                        |
 | News App               |  React, SCSS, Cypress, API                       | [Github](https://github.com/ciisiq/news-app)                            | [Demo](https://news-percayso-test.netlify.app/)                   |
 | Hackathon News website |  React, CSS, teamwork                            | [Github](https://github.com/D20CM/news-hackathon)                       | [Demo](https://master--news-hackathon.netlify.app/)               |
-| Hackathon Holiday app  |  React, CSS, teamwork                            | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                                            |
-  
+| Hackathon Holiday app  |  React, CSS, teamwork                            | [Github](https://github.com/NicholasGomis/TheFourHorsemen)              | [None]                                                            |  
 </div>
 
+## 📄 Work
 
 <div align="center"> 
-<h3>📄 Work</h3>
   
 |Project                  | Tech                          |  Link                                                                   |
 |:------------------------|:------------------------------|:------------------------------------------------------------------------|
 | Full Stack Health Boss  |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)                                 |
 | Servi home Improvements |  Nextjs v3, Prisma, Tailwinds | [Demo](https://servihome-demo-miklyxs-projects.vercel.app/)             |
-
-  
 </div>
  
-<hr>
-<!-- <div align="center"> 
-  
-![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciisiq&count_private=true&show_icons=true&hide=issues&theme=jolly)
-</div> -->
 
-<div align="center"> 
-  
-![codewars badge](https://www.codewars.com/users/cisiq/badges/small)
-</div>
+
