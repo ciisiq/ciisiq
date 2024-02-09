@@ -74,6 +74,7 @@
   
 |Project                 | Tech                                             | Repo                                                                    | Link                                                              |
 |:-----------------------|:-------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------|
+| Newshome Page          |  React, Responsive, Mobile first                 | [Github](https://github.com/ciisiq/challenge-news-homepage-main)        | [Demo](https://fm-homepage-news.netlify.app/)                     | 
 | Newsletter Sign        |  Javascript, Html, CSS                           | [Github](https://github.com/ciisiq/challenge-newsletter-sign-up)        | [Demo](https://ciisiq.github.io/challenge-newsletter-sign-up/)    | 
 | Full stack Sayxiis     |  NodeJS, Express, Postgres/Sequelize, React, CSS | [Github](https://github.com/ciisiq/sayxiis)                             | [None]                                                            |
 | JobTracker APP         |  React, Tailwinds, MongoDB, teamwork             | [Github](https://github.com/SchoolOfCode/final-project-repo-bossa-nova) | [Demo](https://bossanova.netlify.app/)                            |
