@@ -11,10 +11,10 @@
 <div align="center"> 
 👋 Hi, I’m Cintia!
 
-👩‍💻 Software Developer | Front-End Enthusiast | Continuous Learner 📚<br>
+👩‍💻 Front-End Enthusiast | Web Developer | Continuous Learner 📚<br>
 📅 Software Engineer since November 2021 | Open to New Opportunities 🚀<br>
-🎓 Pursuing a Degree in System Analysis and Development at Unicesumar 📖<br>
-💼 Recent Graduate of Codeworks 🚀<br>
+🎓 Recent Graduate in Computer Science: System Analysis and Development at Unicesumar 📖<br>
+
 </div>
 
 
