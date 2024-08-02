@@ -102,10 +102,11 @@
 
 <div align="center"> 
   
-|Project                  | Tech                          |  Link                                                                   |
-|:------------------------|:------------------------------|:------------------------------------------------------------------------|
-| Full Stack Health Boss  |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)                                 |
-| Servi home Improvements |  Nextjs v3, Prisma, Tailwinds | [Demo](https://servihome-demo-miklyxs-projects.vercel.app/)             |
+|Project                      | Tech                          |  Link                                                                   |
+|:----------------------------|:------------------------------|:------------------------------------------------------------------------|
+| Full Stack Health Boss      |  Nextjs v3, Prisma, Tailwinds | [Demo](https://health-boss.vercel.app/)                                 |
+| Servi home Improvements     |  Nextjs v3, Prisma, Tailwinds | [Demo](https://servihome-demo-miklyxs-projects.vercel.app/)             |
+| The Children's wood website |  Wordpress, CSS               | [Demo](https://thechildrenswood.co.uk/)                                 |
 </div>
  
 
